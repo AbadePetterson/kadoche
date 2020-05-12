@@ -287,7 +287,8 @@ nav.navbar.bootsnav {
 .banner {
     margin-top: 67px;
 }
-.banner > h3 {
+.banner  h3 {
+    margin-top: 67px;
     font-size: 32px;
     letter-spacing: 16px;
     text-align: center;
@@ -515,6 +516,9 @@ header .caption {
     -webkit-transition: border .3s ease-in-out;
     -o-transition: border .3s ease-in-out;
     -moz-transition: border .3s ease-in-out;
+}
+.operation {
+    background-color: #444;
 }
 .info_btn {
     background: #d14149 none repeat scroll 0 0;
