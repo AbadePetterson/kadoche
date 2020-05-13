@@ -1,4 +1,6 @@
-(function ($) {
+console.log("passou")
+//(function ($) {
+    $(document).ready(function(){
 	"use strict";
     
     var bootsnav = {
@@ -190,8 +192,9 @@
             //--------------------------------------------------------------------------------/
             //Toggle show/hide operation
             //--------------------------------------------------------------------------------/
-            hide = () => {
-                var x = document.getElementById("hide");
+            function hide() {
+                console.log('testou')
+                let x = document.getElementById("hide");
                 if (x.style.display === "none") {
                     x.style.display = "block";
                 } else {
@@ -584,5 +587,5 @@
         $(".navbar-collapse").removeClass("bounceIn");      
     });
     
-}(jQuery));
+});
 
