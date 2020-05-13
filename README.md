@@ -2,8 +2,8 @@
 Um site com sistema de delivery(glóriafood) para uso em comércio local.
 
 ## Tecnologias utilizadas
-- html/bootstrap
-- css
+- html
+- css/bootstrap
 - js
 
 ## :open_hands: Contribuidores
