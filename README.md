@@ -14,4 +14,4 @@ Sinta-se livre para verificar a página de problemas.
 ## :book:licença
 Copyright :copyright: [Abade](https://github.com/AbadePetterson/)
 
-Esse projeto é lincenciado pelo [MIT](https://opensource.org/licenses/MIT)
+Esse projeto é licenciado pelo [MIT](https://opensource.org/licenses/MIT)
