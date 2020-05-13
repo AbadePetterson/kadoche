@@ -192,6 +192,7 @@ console.log("passou")
             //--------------------------------------------------------------------------------/
             //Toggle show/hide operation
             //--------------------------------------------------------------------------------/
+<<<<<<< HEAD
             function hide() {
                 console.log('testou')
                 let x = document.getElementById("hide");
@@ -201,6 +202,16 @@ console.log("passou")
                     x.style.display = "none";
                 }
             }
+=======
+            // = () => {
+              //  var x = document.getElementById("hide");
+                //if (x.style.display === "none") {
+                  //  x.style.display = "block";
+                //} else {
+                //    x.style.display = "none";
+                //}
+            //}
+>>>>>>> 10610c59c1efe44d39658347224a4185e491329a
             
             // ------------------------------------------------------------------------------ //
             // Wrapper
